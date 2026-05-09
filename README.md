@@ -1,6 +1,4 @@
-Wellcome to my back-end project
-
-===================================
+# Wellcome to my back-end project
 
 ## Quick start
 Follow this quick start to install and run the project
