@@ -1,5 +1,5 @@
 # Wellcome to my back-end project
-NOTE: You will need a database and a .evn file to use this code (in my case I used supabase)
+NOTE: You will need a database and a .env file to use this code (in my case I used supabase)
 ## Quick start
 Follow this quick start to install and run the project
 
